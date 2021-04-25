@@ -12,3 +12,4 @@ clean:
 	rm -rf main
 	mkdir main
 	touch main/.keep
+	rm src/main.js
