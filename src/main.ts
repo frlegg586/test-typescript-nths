@@ -1,2 +1,4 @@
 console.log("Hello, World")
-alert("Testing that this works in practice")
+function change() {
+    document.getElementById("startTitle")!.innerHTML = "Destroy New Town High"
+}
